@@ -687,6 +687,13 @@ img {
     font-size: 1.3rem;
 }
 
+.project-links {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+}
+
 .project-links a {
     width: 36px;
     height: 36px;
